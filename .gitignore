@@ -16,14 +16,6 @@
 
 # Go workspace file
 go.work
-go.work.sum
 
-# Env file containing secrets and credentials!!!
+# Environment variables file (Very important to ignore!)
 .env
-
-# MacOS folders
-.DS_Store
-
-# IDEs
-.idea/
-.vscode/

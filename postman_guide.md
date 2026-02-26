@@ -33,7 +33,7 @@ This guide contains all the endpoints for the project and step-by-step instructi
 
 ---
 
-## 🔒 Setup Authentication for Protected Routes
+## Setup Authentication for Protected Routes
 For all upcoming requests related to Todos, you must include the Token in Postman as follows:
 1. Go to the **Authorization** tab.
 2. Select the Type: **Bearer Token**.
